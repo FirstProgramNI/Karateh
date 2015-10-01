@@ -1,0 +1,3 @@
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\karate tournament\karate tournament\bin\Debug\karate tournament.exe.config
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\karate tournament\karate tournament\obj\Debug\karate tournament.exe
+C:\Users\Ibrahim\documents\visual studio 2013\Projects\karate tournament\karate tournament\obj\Debug\karate tournament.pdb
